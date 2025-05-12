@@ -1,5 +1,5 @@
 # Data Science Bootcamp 11
-My data science and analytics projects
+My data science and analytics projects  
 
 This bootcamp runs for about 4 months, 10 sprints.
 
@@ -11,7 +11,7 @@ This bootcamp runs for about 4 months, 10 sprints.
 - Statistics
 - Machine Learning
 - Website with WordPress
-- Python
+- Python for Data Analysts
 - Dashboard
   
 E-mail: disorn.bs@gmail.com
@@ -39,5 +39,6 @@ SELECT "Hello World!" FROM bootcamp;
    
 ## Contact Me
 reach out to me at bbook@here
+
 
 
